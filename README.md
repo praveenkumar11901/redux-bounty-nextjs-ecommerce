@@ -35,7 +35,6 @@ This is a full-stack e-commerce application built with Next.js, Prisma, and SQLi
 
 3. Create a `.env.local` file in the root directory with the following content:
    ```
-   DATABASE_URL="file:./dev.db"
    NEXTAUTH_SECRET="your_nextauth_secret_here"
    NEXTAUTH_URL="http://localhost:3000"
    ```
