@@ -10,12 +10,6 @@ This is a full-stack e-commerce application built with Next.js, Prisma, and SQLi
 - Shopping cart and checkout for shoppers
 - Admin dashboard for user management
 
-## Prerequisites
-
-- Node.js (v14 or later)
-- npm or yarn
-- Git
-
 ## Environment Setup
 
 1. Clone the repository:
