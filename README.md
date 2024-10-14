@@ -73,11 +73,3 @@ To manually change a user's role to admin:
 6. Save the changes (Ctrl+S or Cmd+S).
 
 Note: Be cautious when manually editing the database, as it can lead to data inconsistencies if not done correctly.
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is licensed under the MIT License.
