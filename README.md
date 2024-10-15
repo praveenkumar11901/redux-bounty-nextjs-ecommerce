@@ -14,8 +14,8 @@ This is a full-stack e-commerce application built with Next.js, Prisma, and SQLi
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name
+   git clone (https://github.com/praveenkumar11901/redux-bounty-nextjs-ecommerce)
+   cd redux-bounty-nextjs-ecommerce
    ```
 
 2. Install dependencies:
